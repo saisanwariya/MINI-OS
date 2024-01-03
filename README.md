@@ -1,13 +1,22 @@
-# Final Submission Work - MiniOS - CMPSC 473 Project 2
+# MiniOS
 
-## Project 2 - Group 144 (sgroup144)
+# Academic Integrity Statement
+
+Please note that all work included in this project is the original work of the authors, and any external sources or references have been properly cited and credited. It is strictly prohibited to copy, reproduce, or use any part of this work without permission from the authors.
+
+If you choose to use any part of this work as a reference or resource, you are responsible for ensuring that you do not plagiarize or violate any academic integrity policies or guidelines. The author of this work cannot be held liable for any legal or academic consequences resulting from the misuse or misappropriation of this work.
+
+Any unauthorized copying or use of this work may result in serious consequences, including but not limited to academic penalties, legal action, and damage to personal and professional reputation. Therefore, please use this work only as a reference and always ensure that you properly cite and attribute any sources or references used.
+
+---
+
 
 ### Team Members
-- Abhinav Sachdeva (avs7793)
-- Sai Narayan (ssn5137)
+- Abhinav Sachdeva
+- Sai Narayan
 
 ## Overview
-This repository contains the implementation for Project 2 of CMPSC 473. Our team has extended a small operating system, MiniOS, to set up a simple system call and initialize a simple page table.
+Our team has extended a small operating system, MiniOS, to set up a simple system call and initialize a simple page table.
 
 ____
 
@@ -73,5 +82,3 @@ ________
 _____
 
 ## Extra Credit is also finished, Malloc is successfully implemented
-- Source code from the malloc implementation done by Abhinav Sachdeva, (avs7793)
-- Malloc of Sai's was also giving the same score but we decided to go with Abhinav's implementation.
