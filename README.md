@@ -12,8 +12,9 @@ Any unauthorized copying or use of this work may result in serious consequences,
 
 
 ### Team Members
-- Abhinav Sachdeva
 - Sai Narayan
+- Abhinav Sachdeva
+
 
 ## Overview
 Our team has extended a small operating system, MiniOS, to set up a simple system call and initialize a simple page table.
