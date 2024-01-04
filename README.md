@@ -81,4 +81,4 @@ ________
 
 _____
 
-## Extra Credit is also finished, Malloc is successfully implemented
+## Malloc is successfully implemented
